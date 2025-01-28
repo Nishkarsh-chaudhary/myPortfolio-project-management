@@ -20,7 +20,7 @@
     background: url(/public/images/nishkarsh-hero.png) center center;
     background-size: contain;
     background-repeat: no-repeat;
-    border-radius: 0px 0px 400px 400px;
+    border-radius: 400px 400px 400px 400px;
 
     &::before {
         content: "";
